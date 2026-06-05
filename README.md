@@ -133,6 +133,42 @@ Modern SaaS Dashboard built using Next.js 15, Tailwind CSS, Firebase Authenticat
 
 ---
 
+# 📸 Application Screenshots
+
+<div align="center">
+
+<h3>🔐 User Login</h3>
+<img src="screenshots/User Login.png" width="900"/>
+
+<br><br>
+
+<h3>👤 User Dashboard</h3>
+<img src="screenshots/User Dashboard.png" width="900"/>
+
+<br><br>
+
+<h3>📊 Admin Dashboard</h3>
+<img src="screenshots/Admin dashboard.png" width="900"/>
+
+<br><br>
+
+<h3>🏢 Tenant Management</h3>
+<img src="screenshots/Tenants.png" width="900"/>
+
+<br><br>
+
+<h3>📦 Subscription Management</h3>
+<img src="screenshots/Subscription.png" width="900"/>
+
+<br><br>
+
+<h3>💳 Payment Management</h3>
+<img src="screenshots/Payments.png" width="900"/>
+
+</div>
+
+---
+
 # 🎨 UI / UX Features
 
 Inspired by:
